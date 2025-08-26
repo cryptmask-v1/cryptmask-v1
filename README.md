@@ -5,9 +5,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cryptmask-v1&label=Profile%20Views&color=0e75b6&style=flat" alt="visitors"/>
   <img src="https://img.shields.io/badge/Code-Typescript%20%7C%20Javascript%20%7C%20PHP-blue" alt="langs"/>
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20HTML%20%7C%20CSS-orange" alt="frontend"/>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20HTML%20%7C%20CSS-orange" alt="frontend"/>
   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20MongoDB%20%7C%20Firebase-green" alt="backend"/>
   <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Webpack%20%7C%20Figma%20%7C%20Photoshop%20%7C%20Postman-purple" alt="tools"/>
+  <img src="https://img.shields.io/badge/Learning-Next.js-informational" alt="learning"/>
 </p>
 
 <!-- Banner -->
@@ -23,14 +24,14 @@
 ## 🚀 About Me
 
 - Full‑stack oriented; obsessed with performance and DX.
-- Modern UIs with React/Next.js; scalable APIs with Node/Express.
+- Modern UIs with React; scalable APIs with Node/Express.
 - Rapid prototyping and production with MongoDB and Firebase.
 - End‑to‑end delivery with design (Figma/Photoshop) and workflow (Postman).
 
 ## 🔧 Tech Stack
 
 - Languages: TypeScript, JavaScript, PHP
-- Frontend: React, Next.js, HTML, CSS, Webpack
+- Frontend: React, HTML, CSS, Webpack
 - Backend: Node.js, Express
 - Databases: MongoDB, Firebase
 - Tools: Git, Figma, Photoshop, Postman
@@ -40,7 +41,6 @@
   <img title="JavaScript" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img title="PHP" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img title="React" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img title="Next.js" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img title="HTML5" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img title="CSS3" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img title="Webpack" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
@@ -53,6 +53,10 @@
   <img title="Photoshop" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img title="Postman" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 </p>
+
+## 📚 Currently Learning
+
+- Next.js
 
 ## 🧪 Focus Areas
 
